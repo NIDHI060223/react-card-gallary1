@@ -1,0 +1,64 @@
+{
+    "cards":[
+        {
+            "id":1,
+            "title": "India Gate",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShG4cuMtUHZMk2TLkn5uW7AFWAz2vrdpRcBA&s",
+            "content": "The India Gate is a war memorial located near the Kartavya path on the eastern edge of the ceremonial axis of New Delhi."
+        },
+        {
+            "id":2,
+            "title": "Red Fort",
+            "image": "https://www.oyorooms.com/travel-guide/wp-content/uploads/2019/01/redfort.jpg",
+            "content": "The Red Fort Complex was built as the palace fort of Shahjahanabad."
+        },
+        {
+            "id":3,
+            "title": "Akshardham",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/c/c2/New_Delhi_Temple.jpg",
+            "content": "Swaminarayan Akshardham is one of the most popular Hindu temples in India."
+        },
+        {
+            "id":4,
+            "title": "Lotus Temple",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvh0Sj2VdOSsoqZHi3Oa_Id856w-pUuM0xdw&s",
+            "content": "The Lotus Temple, located in Delhi, India, is a Bahá'í House of Worship that was dedicated in December 1986, costing $10 million. "
+        },
+        {
+            "id":5,
+            "title": "Jama Masjid",
+            "image": "https://www.agrashivtourandtravels.com/wp-content/uploads/2020/06/jama.jpg",
+            "content": "One of the largest mosques in India, Jama Masjid is situated in Old Delhi."
+        },
+        {
+            "id":6,
+            "title": "Rashtrapati Bhavan",
+            "image": "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2022/11/rashtrapati-bhavan-1471847592-1669043077.jpg",
+            "content": "Rashtrapati Bhavan is a house of four floors and has some 340 rooms of varying sizes."
+        },
+        {
+            "id":7,
+            "title": "Jantar Mantar",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHtOWHYWkuwJwe-LKIYa07f8CR7V6tWu_hBmmCSWIqzw&ss",
+            "content": "Jantar Mantar is a testament of the architectural brilliance and astronomical innovations of the Rajput era."
+        },
+        {
+            "id":8,
+            "title": "Rajghat",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHwX9dXX-dC2GROLyYEJwTKW5bDBvC0dl-GQa9Rpcapg&s",
+            "content": "Raj Ghat is a memorial in Delhi where Mahatma Gandhi, the Father of the Nation."
+        },
+        {
+            "id":9,
+            "title": "Dilli Haat",
+            "image": "https://www.tripsavvy.com/thmb/nEbs0OAhJPG6rOmJCL6PUUUVTKs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/DELHI2019-1-50-0a7f4f61d9774d6c94b22d0cce4e0668.JPG",
+            "content": "Dilli Haat has been designed in the traditional north Indian architectural style in brick latticework and stone roofs."
+        },
+        {
+            "id":10,
+            "title": "Qutab Minar",
+            "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/201704/647_042717101905.jpg",
+            "content": "The height of Qutb Minar is 72.5 meters, making it the tallest minaret in the world built of bricks. "
+        }
+    ]
+}
